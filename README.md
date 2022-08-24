@@ -60,7 +60,7 @@ the Controller -- anything that interacting with the user
 
 - Update further with technical language
 - Add animations
-- Add additional references to benefical and accessible resources.
+- Add resources
 
 ### Useful resources
 
