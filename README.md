@@ -12,7 +12,7 @@ Presentation on Model, View, Controller with additonal notes on mongoose schema 
   - [Useful resources](#useful-resources)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 Put to use the research I have done on the architecture design pattern Model View Controller. I will continue improve and share this research so other Software Engineers can improve with me. Making this information accessible and approachable is the priority.
